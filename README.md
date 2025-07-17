@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/celalkhalilov-radio-browser-mcp-badge.png)](https://mseep.ai/app/celalkhalilov-radio-browser-mcp)
+
 # Radio Browser MCP
 
 A Model Context Protocol (MCP) server that provides access to the Radio Browser API, allowing you to search and discover internet radio stations from around the world.
